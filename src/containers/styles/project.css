@@ -1,0 +1,47 @@
+.projectImg {
+    width: 200px;
+    height: 100px;
+    margin: 20px 10px;
+    border-radius: 10px;
+    
+}
+
+.card-top {
+    height: 150px;
+    /* border: 1px solid grey; */
+}
+
+.description {
+    height: 70px;
+    overflow: hidden;
+}
+
+/* .card {
+    width: 70%;
+} */
+
+.chip {
+    border: 1px solid grey;
+    border-radius: 10px;
+    min-width: 60px;
+    text-align: center;
+    margin: 6px;
+    font-size: 12px;
+    padding: 2px;
+}
+
+.chip-container {
+    flex-wrap: wrap;
+}
+.active {
+    color: #734b6d;
+    border-bottom: 1px solid #734b6d;
+}
+
+@media only screen and (max-width: 900px) {
+    .projectImg {
+        width: 80%;
+        margin: 30px;
+        border-radius: 10px;
+    }
+}

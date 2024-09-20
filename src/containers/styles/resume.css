@@ -1,0 +1,13 @@
+.img {
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    background-color: grey;
+    margin-bottom: 20px;
+}
+
+.top-section {
+    height: 80px;
+    margin-bottom: 20px;
+    margin-left: 18px;
+}

@@ -1,0 +1,17 @@
+.round {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    border: 1px solid grey;
+}
+.resume-progress {
+    width: 5px;
+    height: 70px;
+    background-color: #734b6d;
+    border-radius: 0px;
+    margin: 10px 0px;
+}
+
+.final-progress {
+    height: 40px;
+}

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f6f5084.css",
+    "main.js": "/static/js/main.7972356f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/StudentResource.png": "/static/media/StudentResource.7009684b803d8656144d.png",
+    "static/media/freed-home.png": "/static/media/freed-home.ffffed6082ddc3e0890b.png",
+    "static/media/angular.png": "/static/media/angular.275008b2d1e2b851729e.png",
+    "static/media/bizgoji.png": "/static/media/bizgoji.a1c98267d55fec948b59.png",
+    "static/media/bizgo-easy.png": "/static/media/bizgo-easy.185a07d6d98e24b59cec.png",
+    "static/media/OpenSans-VariableFont_wdth,wght.ttf": "/static/media/OpenSans-VariableFont_wdth,wght.ceb05254cedfa895b512.ttf",
+    "static/media/abc-atoms.png": "/static/media/abc-atoms.51aac95b4084d18ec077.png",
+    "static/media/electron.png": "/static/media/electron.5386e690a0be602335ef.png",
+    "static/media/govidp3.jpeg": "/static/media/govidp3.85e9476818869f32a9d1.jpeg",
+    "static/media/bhavus_dp.jpg": "/static/media/bhavus_dp.1d53a20aeb0281787cee.jpg",
+    "static/media/exn.png": "/static/media/exn.a29d2f965c96c19dd54d.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2f6f5084.css.map": "/static/css/main.2f6f5084.css.map",
+    "main.7972356f.js.map": "/static/js/main.7972356f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f6f5084.css",
+    "static/js/main.7972356f.js"
+  ]
+}

@@ -1,0 +1,13 @@
+.about-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+
+  .resumeButton {
+    background-color: #734b6d;
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 8px;
+  }

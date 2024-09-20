@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    
+
+  font-family: MyFont !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+}
+
+@font-face {
+  font-family: 'MyFont';
+  src: url(./assets/fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+  /* src: url(./assets/fonts/Cardo/Cardo-Italic.ttf); */
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
+
+@font-face {
+  font-family: 'Tangerine';
+  src: url(./assets/fonts/tangerine/Tangerine_Regular.ttf);
+  src: url(./assets/fonts/tangerine/Tangerine_Bold.ttf);
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.heading {
+  min-height: 50px !important;
+  font-size: 35px !important;
+}
+
+.weddingImage {
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  z-index: -1;
+  filter: brightness(0.3);
+}
+
+.weddingBody {
+  color: #fff;
+  width: 100%;
+  display: flex;
+}
+
+.chilanka-regular {
+  font-family: "Chilanka", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h6 {
+  /* font-size: 16px !important; */
+}

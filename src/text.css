@@ -1,0 +1,65 @@
+.white {
+    color: #fff;
+}
+
+.grey {
+    color: grey;
+}
+
+.primary {
+    color: #734b6d;
+}
+
+.golden {
+    color:#b68e5d
+}
+
+.normal {
+    font-weight: 400;
+    
+}
+
+.medium {
+    font-size: 15px;
+}
+
+.small {
+    font-size: 12px;
+}
+
+.large {
+    font-size: 20px;
+}
+.xlarge {
+    font-size: 23px;
+}
+
+.xxlarge {
+    font-size: 28px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.semi-bold {
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 600px) {
+    
+.medium {
+    font-size: 14px;
+}
+
+.small {
+    font-size: 10px;
+}
+
+.large {
+    font-size: 16px;
+}
+.xlarge {
+    font-size: 25px;
+}
+  }

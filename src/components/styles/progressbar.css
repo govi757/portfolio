@@ -1,0 +1,18 @@
+
+.progressbar {
+    height: 7px;
+    background-color: #f3f3f3;
+    border-radius: 7px;
+    position: relative;
+}
+
+
+.active-progressbar {
+    height: 7px;
+    /* background-color: #f3f3f3; */
+    border-radius: 7px;
+    position: absolute;
+    background-color: #734b6d;
+    width: 100px;
+    top:0;
+}
